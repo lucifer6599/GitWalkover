@@ -1,9 +1,9 @@
 //import './App.css';
-
+//change dekha ?
 function Comp1({tezab}) {
   return (
     <div className="App">
-        {tezab?tezab:'kuch nai'} Akki
+        {tezab} Akki and Change
     </div>
   );
 }
