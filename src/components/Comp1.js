@@ -3,7 +3,7 @@
 function Comp1({tezab}) {
   return (
     <div className="App">
-        {tezab} Akki and Change
+      <p>  {tezab} Akki and Change </p>
     </div>
   );
 }
