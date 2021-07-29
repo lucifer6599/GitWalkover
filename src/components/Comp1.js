@@ -5,6 +5,7 @@ function Comp1({tezab}) {
     <div className="App">
         {tezab} Akki and Change
         hey!!
+        in feature
       <p>  {tezab} Akki and Change </p>
     </div>
   );
