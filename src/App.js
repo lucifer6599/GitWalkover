@@ -5,7 +5,7 @@ function App() {
     <div className="App">
      <Comp1 tezab="Hey1"/>
      <Comp1 tezab="Hey2"/>
-     <Comp1 tezab="Hey3"/>
+     <Comp1 />
     </div>
   );
 }
