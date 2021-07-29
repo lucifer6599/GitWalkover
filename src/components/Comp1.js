@@ -4,6 +4,7 @@ function Comp1({tezab}) {
   return (
     <div className="App">
         {tezab} Akki and Change
+        hey!!
     </div>
   );
 }
